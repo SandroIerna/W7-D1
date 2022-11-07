@@ -1,0 +1,8 @@
+.card {
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.card-body {
+  min-height: 100px;
+}
